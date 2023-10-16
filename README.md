@@ -1,11 +1,9 @@
 <table>
   <tr>
-    <td>
+    <td width="33%">
       <h1>👋 About Me</h1>
       <p>
-        ⚡ Web and MlOps Engineer<br>
-        🤝 Open to Collaborate and Connect<br>
-        🌱 Currently learning Deep Learning
+          "I m a Computer Science graduate (BCA) with a passion for exploring the ever-evolving world of machines and computer science. I've dipped my toes in various fields, from web development to my current journey into the relevant domains of AI and machine learning. You can call me 'Jack of many trades' but I'm determined to master them all, one by one. 😎
       </p>
     </td>
     <td align="right">
