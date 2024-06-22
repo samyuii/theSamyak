@@ -17,10 +17,10 @@
   <a href="https://instagram.com/samyuiii">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/samyakj7">
+  <a href="https://linkedin.com/in/samyakdev">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/theeSamyak">
+  <a href="https://twitter.com/OGsamyak">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://youtube.com/@OGsamyak">
